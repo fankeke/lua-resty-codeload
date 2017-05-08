@@ -1,6 +1,8 @@
 
 local rload 	= require "mload.lib.resty.load"
 local rload     = require "mload.lib.resty.load"
+local mload     = require "modules.load"
+local helo		= require "xx"
 
 local	hello
 local   hello
