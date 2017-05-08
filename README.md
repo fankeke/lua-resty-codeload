@@ -1,3 +1,3 @@
-lua-resty-load (upyun)
+lua-resty-codeload (upyun)
 =================
 dynamice upload lua string for openresty or ngx_lua

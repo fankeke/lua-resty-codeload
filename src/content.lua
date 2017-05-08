@@ -1,5 +1,6 @@
 
-local rload = require "mload.lib.resty.load"
+local rload 	= require "mload.lib.resty.load"
+local rload     = require "mload.lib.resty.load"
 
 local config = {
 	load_init = {
